@@ -1,0 +1,18 @@
+{
+  "name": "benefit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^19.0.0",
+    "proxy-chain": "^2.0.0",
+    "cors": "^2.8.5",
+    "axios": "^0.24.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
